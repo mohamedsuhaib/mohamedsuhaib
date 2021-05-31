@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems, IOT, DataScience, ML, AI, Deep Learning, python, PC gaming.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Kaggle, Github, IBM watson studio
-- 📫 How to reach me via my linkedin: www.linkedin.com/in/mohamedsuhaibkms
+- 📫 Reach me via linkedin: www.linkedin.com/in/mohamedsuhaibkms
 
 <!---
 mohamedsuhaib/mohamedsuhaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
