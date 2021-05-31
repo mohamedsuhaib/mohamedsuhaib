@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedsuhaib
-- 👀 I’m interested in Embedded Systems, IOT, Automotive functional Safety, DataScience, ML, AI, Deep Learning, python, PC gaming.
+- 👀 I’m interested in Embedded Systems, IOT, Automotive Functional Safety, DataScience, ML, AI, Deep Learning, python, PC gaming.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Kaggle, Github, IBM watson studio
 - 📫 Reach me via linkedin: www.linkedin.com/in/mohamedsuhaibkms
