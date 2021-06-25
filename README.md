@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mohamedsuhaib
 - 👀 I’m interested in Embedded Systems, IOT, Automotive Functional Safety, ADAS, DataScience, ML, AI, Deep Learning, Python, R, C/C++.
 - 🌱 I’m currently learning ML.
+- ✨ Next in pipeline Social Engineering & Game-Development.
 - 💞️ I’m looking to collaborate on Kaggle, Github, IBM watson studio.
 - 📫 Reach me via linkedin: www.linkedin.com/in/mohamedsuhaibkms
 
