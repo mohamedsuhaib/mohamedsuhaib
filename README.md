@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mohamedsuhaib&color=brightgreen&style=plastic)
 - 👋 Hi, I’m @mohamedsuhaib
 - 👀 I’m interested in Embedded Systems, IOT, Automotive Functional Safety, ADAS, DataScience, ML, AI, Deep Learning, Python, R, C/C++.
 - 🌱 I’m currently learning ML.
