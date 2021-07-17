@@ -4,9 +4,8 @@
 - ✨ Next in pipeline Social Engineering & Game-Development.
 - 💞️ I’m looking to collaborate on Kaggle, Github, IBM watson studio.
 - 📫 Reach me via linkedin: www.linkedin.com/in/mohamedsuhaibkms
-
+![](https://github-readme-stats.vercel.app/api?username=mohamedsuhaib&amp;show_icons=true&amp;theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsuhaib)
-
 ![](https://komarev.com/ghpvc/?username=mohamedsuhaib&color=brightgreen&style=plastic)
 
 
